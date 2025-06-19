@@ -131,7 +131,7 @@ def send_webhook():
     "embeds": [{
         "color": 15844367,
         "fields": [
-            { "name": "<:banhammer3:1346683070597824604> **MonMining**", "value": "Supervised Mining System\n\u200B", "inline": False },
+            { "name": "🔨 **MonMining**", "value": "Supervised Mining System\n\u200B", "inline": False },
             { "name": "<:Emulator:1340504951037759601> Device ID", "value": f"`{DEVICE_ID}`", "inline": False },
             { "name": "\u200B", "value": stats, "inline": False },
             { "name": "\u200B", "value": pool_info, "inline": False },
