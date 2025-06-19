@@ -14,7 +14,7 @@ Script Python untuk memantau mining VerusCoin dari STB Android/Linux dan mengiri
   - Wallet & Worker
   - Mining Pool
   - Local IP
-  - Ping ke internet (default: 8.8.8.8)
+  - Ping
 - 📡 Kirim ke Discord Webhook setiap 10 menit
 - 💬 Format laporan sudah rapi dan stylish dengan icon
 
