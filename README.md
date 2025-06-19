@@ -30,4 +30,4 @@ Script Python untuk memantau mining VerusCoin dari STB Android/Linux dan mengiri
 
 1. Clone atau unduh repo ini:
    ```bash
-   git clone https://github.com/namakamu/monmonitor.git
+   wget https://github.com/akhmadraymond/MonMining/raw/main/reporter.py
